@@ -1,0 +1,73 @@
+/*
+  white: #FFFFFF
+  box model color:  Cerulean: #2C64B0
+  Acc 1: #B02C64
+  Acc 2: #378300 
+
+*/
+
+body {
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3 {
+  color: #B02C64;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,td {
+  border-color: #378300;
+  border-style: solid;
+  border-width: 3px;
+  padding: 6px;
+  
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #B02C64;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #378300;
+}
+
+p.tc {
+  background-color: #B02C64;
+  color: #FFFFFF;
+  width:720px;
+  padding:5px;
+  border-style: double;
+  border-width: 5px;
+  border-color: #378300;
+  margin-left: 15px;
+  margin-right: auto;
+}
+
+div {
+  background-color: #1D4859;
+  width: 646px;
+  padding: 5px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: #378300;
+  margin-left: 15px;
+  margin-right: auto;
+  
+}
+
+
+
+
+
+
+

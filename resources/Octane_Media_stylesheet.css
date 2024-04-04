@@ -1,0 +1,28 @@
+th,td {
+   border: red solid 3px;
+}
+
+p.img {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+span.Oct {
+	text-decoration: underline;
+	text-decoration-color: red;
+}
+
+body {
+	padding-left: 10px;
+}
+
+p {
+	padding-left: 7px;
+}
+
+td.Name {
+	text-align: center;
+}
